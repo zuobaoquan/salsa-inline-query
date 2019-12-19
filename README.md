@@ -1,5 +1,5 @@
 # salsa-inline-query
-Support inline query definitions in salsa query group trait
+Support inline query definitions in [salsa](https://github.com/salsa-rs/salsa) query group trait
 
 ## Example
 ```rust
